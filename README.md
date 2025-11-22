@@ -1,3 +1,5 @@
 # pb-setup-scripts
 
-curl -sSL https://raw.githubusercontent.com/heydarlouam/pb-setup-scripts/main/setup.sh | bash
+git clone https://github.com/heydarlouam/pb-setup-scripts.git
+cd pb-setup-scripts
+bash setup.sh
